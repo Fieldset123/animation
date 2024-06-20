@@ -3,13 +3,14 @@ body {
     height: 100vh;
     display: flex;
     justify-content: center;
-    top:50px;
+/*     top:50px; */
 }
 #gif{
     background: none;
     display:flex;
     justify-content: start;
     align-items: end;
+ top:200px;
 }
 .main {
     position: relative;
