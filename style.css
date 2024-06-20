@@ -10,13 +10,14 @@ body {
     display:flex;
     justify-content: start;
     align-items: end;
- top:400px;
+ 
 }
 .main {
     position: relative;
     width: 15rem;
     height: 30rem;
     transform: scale(.5);
+	top:360px;
 }
 
 .cake {
