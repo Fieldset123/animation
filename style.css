@@ -10,7 +10,7 @@ body {
     display:flex;
     justify-content: start;
     align-items: end;
- top:200px;
+ top:320px;
 }
 .main {
     position: relative;
