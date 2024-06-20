@@ -3,7 +3,7 @@ body {
     height: 100vh;
     display: flex;
     justify-content: center;
-    top:100px;
+    top:50px;
 }
 #gif{
     background: none;
